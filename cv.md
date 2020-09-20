@@ -1,0 +1,15 @@
+**Personal information:**
+
+<p>Arina Bardyukova</p>
+<p>arina.bardyukova@yandex.ru</p>
+<p>My goal here is to get acquainted with some basics and understand will this sphere be fascinating for me. </p>
+
+**Experiense and skills:**
+
+
+**Education and training:**
+
+<p>My bachelor degree is in Technology of Transport Processes (Admiral Makarov State University of Maritime and Inland Shipping, Saint Petersburg (Russia)).
+I don't have any type of education in IT sphere yet.</p>
+<p>According to EF SET SCORE online-test my level is C1. But I think that better to specify it as B1, because EF SET checks only reading and listening. I did't have any language practice abroad. 
+I had only some conversations and correspondence.</p>
