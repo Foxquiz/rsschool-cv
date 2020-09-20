@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Foxquiz.github.io/rsschool-cv/cv.md
+https://Foxquiz.github.io/rsschool-cv/cv
